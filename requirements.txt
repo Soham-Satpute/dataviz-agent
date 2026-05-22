@@ -1,0 +1,8 @@
+groq
+python-dotenv
+Pillow>=11.0.0
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
